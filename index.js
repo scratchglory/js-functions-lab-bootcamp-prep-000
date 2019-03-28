@@ -1,11 +1,10 @@
-
+name = you
 
 function happyHolidays(String) {
   return "Happy holidays!"
 }
 
 function happyHolidaysTo(string) {
-  var name = "you"
   return `Happy holidays, ${name}!`
 }
 
