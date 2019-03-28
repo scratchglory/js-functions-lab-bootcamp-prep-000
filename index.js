@@ -1,4 +1,4 @@
-name = you
+name = "you"
 
 function happyHolidays(String) {
   return "Happy holidays!"
